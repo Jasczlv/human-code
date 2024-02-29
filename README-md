@@ -1,6 +1,4 @@
 # Ordinare una pizza
-
-
 ## Scegliere la pizza
     - Decidere la pizzeria
         - Prendo il telefono
@@ -71,19 +69,20 @@
         - Aprire il cartone
         - Prendi la rotella della pizza
     - Mangiare la pizza
-        - SE hai ancora fame:
-            - PER OGNI fetta:
-                - Prenderla
-                - Mangiarla
-        - ALTRIMENTI:
-            - Inizia a sistemare
+        - FINCHE' ho fame:
+            - Mangia una fetta di pizza
+        - QUANDO sono sazio:
+            - SE è avanzata della pizza:
+                - Mettere la pizza avanzata in frigo
+                - Buttare il cartone
+            - ALTRIMENTI:
+                - Buttare il cartone
 ## Sistemare
     - Alzarsi da tavola
     - Sparecchiare
         - Sbarazzare le stoviglie (piatto, bicchiere e posate)
-        - SE è avanzata della pizza:
-            - Mettere la pizza avanzata in frigo
-            - Buttare il cartone
-        - ALTRIMENTI:
-            - Buttare il cartone
+            - Metterle nel lavello
         - Mettere via la tovaglia
+            - Togliere le briciole
+            - Piegarla
+            - Metterla nel cassetto
